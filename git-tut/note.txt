@@ -1,0 +1,9 @@
+Version Control
+popular : git
+
+git init
+git add .
+git commit -m "xxxxx"
+git remote add origin https://github.com/dalry-brown/git-tut
+git push -u origin main
+
